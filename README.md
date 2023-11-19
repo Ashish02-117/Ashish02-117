@@ -17,6 +17,8 @@
 ## Unity
 
 [1. Whispers of the Wise](https://github.com/Ashish02-117/Whispers_of_the_Wise)
+[2. Flappy Bird](https://github.com/Ashish02-117/Whispers_of_the_Wise)
+[3. Shoot Them Up](https://github.com/Ashish02-117/Whispers_of_the_Wise)
 
 ## Description
 
